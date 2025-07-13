@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+mysql-connector-python
+pandas
+python-dotenv
+langchain
+langchain-groq
+langchain-experimental
+aiofiles
