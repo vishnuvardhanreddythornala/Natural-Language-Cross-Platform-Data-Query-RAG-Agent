@@ -75,6 +75,10 @@ And uses a **LangChain-powered Pandas DataFrame agent** to process cross-platfor
 git clone https://github.com/vishnuvardhanreddythornala/Natural-Language-Cross-Platform-Data-Query-RAG-Agent.git
 cd Natural-Language-Cross-Platform-Data-Query-RAG-Agent
 
+#.env file
+  Groq API key
+  mongodb & Mysql credentials
+
 # Backend Setup
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -105,6 +109,7 @@ Natural-Language-Cross-Platform-Data-Query-RAG-Agent/
 │   ├── mongo_connector.py
 │   ├── mysql_connector.py
 │   └── requirements.txt
+    └── .env
 ├── frontend/
 │   ├── src/
 │   │   ├── App.jsx
