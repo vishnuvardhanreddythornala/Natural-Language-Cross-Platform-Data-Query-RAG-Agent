@@ -38,8 +38,8 @@ And uses a **LangChain-powered Pandas DataFrame agent** to process cross-platfor
 
 ## 🎥 Demo
 
-> **📽️ Video Presentation:** [Google Drive Link](https://drive.google.com/file/d/1mwHSAzueq4rLWVRdBLbgedShtLgter-2/view?usp=drivesdk)
-> **Deployement Link:** [https://query-portfolio.vercel.app/]
+- **📽️ Video Presentation:** [Google Drive Link](https://drive.google.com/file/d/1mwHSAzueq4rLWVRdBLbgedShtLgter-2/view?usp=drivesdk)
+- **Deployement Link:** [https://query-portfolio.vercel.app/]
 
 ## ✨ Features
 
